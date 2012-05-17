@@ -1,0 +1,4 @@
+I have implemented the following *example but in a MAX OS. For this reason, I needed to preconfigure my laptop following these **steps, since it is necessary to instal rgdal in MAC OS. The main idea is to process images with R:
+
+*http://freakonometrics.blog.free.fr/index.php?post/2012/04/18/foundwaldo
+**http://spatialanalysis.co.uk/2010/11/installing-rgdal-on-mac-os-x/
